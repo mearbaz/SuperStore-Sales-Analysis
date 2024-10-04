@@ -46,12 +46,13 @@ The dataset contains the following key columns:
 
 This analysis is intended for business analysts, marketing teams, and decision-makers looking to enhance their understanding of sales performance and identify growth opportunities.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgements
 
 - Inspired by real-world retail analytics.
 - Special thanks to the open data community for providing datasets for practice.
+
+## SuperStore Sales Analysis Dashboard 
+Here’s a snapshot of our SuperStore Sales Analysis dashboard:
+
+![ SuperStore Sales ](ex.png)
 
